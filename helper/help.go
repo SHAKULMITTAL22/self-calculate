@@ -1,5 +1,5 @@
 package helper
 
-func Help(a int, b int) int {
+func Dontknow(a int, b int) int {
 	return a + b
 }
