@@ -7,7 +7,7 @@ import (
 )
 
 func main() {
-	a := helper.Help(1, 2)
+	a := helper.Dontknow(1, 2)
 
 	fmt.Println(a)
 }
