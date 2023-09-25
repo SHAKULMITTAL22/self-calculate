@@ -8,7 +8,6 @@ import (
 
 func main() {
 	a := helper.Dontknow(1, 2)
-	b:= helper.Dontknow1(1,2)
 
-	fmt.Println(a-b)
+	fmt.Println(a)
 }
