@@ -6,7 +6,7 @@ import (
 	"github.com/SHAKULMITTAL22/self-calculate/helper"
 )
 
-func main() {
+func test() {
 	a := helper.Dontknow(1, 2)
 
 	fmt.Println(a)
